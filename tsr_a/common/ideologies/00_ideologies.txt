@@ -1,0 +1,227 @@
+ideologies = {
+
+	centralist = {
+		types = {
+			centralist_subtype = {}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME_CENTRALIST_1"
+		}
+		color = { 127 0 0 }
+		rules = {
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}
+		modifiers = {
+			join_faction_tension = 0.80
+			generate_wargoal_tension = 0.25
+		}
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+
+	marxist = {
+		types = {
+			marxist_subtype = {}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME_MARXIST_1"
+		}
+		color = { 255 0 0 }
+		rules = {
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}
+		modifiers = {
+			join_faction_tension = 0.80
+			generate_wargoal_tension = 0.25
+			ai_get_ally_desire_factor = -500
+		}
+		ai_neutral = yes
+		can_be_boosted = no
+
+	}
+
+	communalist = {
+		types = {
+			communalist_subtype = {}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME_COMMUNALIST_1"
+		}
+		color = { 233 58 58 }
+		rules = {
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}
+		modifiers = {
+			join_faction_tension = 0.80
+			generate_wargoal_tension = 0.75
+			ai_get_ally_desire_factor = -500
+		}
+		ai_neutral = yes
+		can_be_boosted = no
+
+	}
+
+	social_democrat = {
+		types = {
+			social_democrat_subtype = {}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME_SOCIAL_DEMOCRAT_1"
+		}
+		color = { 194 30 86 }
+		rules = {
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}
+		modifiers = {
+			join_faction_tension = 0.80
+			generate_wargoal_tension = 0.75
+		}
+		ai_neutral = yes
+		can_be_boosted = no
+
+	}
+
+	social_liberal = {
+		types = {
+			social_liberal_subtype = {}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME_SOCIAL_LIBERAL_1"
+		}
+		color = { 255 170 0 }
+		rules = {
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}
+		modifiers = {
+			join_faction_tension = 0.80
+			generate_wargoal_tension = 0.75
+		}
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+
+	market_liberal = {
+		types = {
+			market_liberal_subtype = {}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME_MARKET_LIBERAL_1"
+		}
+		color = { 0 128 0 }
+		rules = {
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}
+		modifiers = {
+			join_faction_tension = 0.80
+			generate_wargoal_tension = 0.75
+		}
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+
+	social_conservative = {
+		types = {
+			social_conservative_subtype = {}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME_SOCIAL_CONSERVATIVE_1"
+		}
+		color = { 0 0 255 }
+		rules = {
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}
+		modifiers = {
+			join_faction_tension = 0.80
+			generate_wargoal_tension = 0.75
+		}
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+
+	authoritarian_democrat = {
+		types = {
+			authoritarian_democrat_subtype = {}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME_AUTHORITARIAN_DEMOCRAT_1"
+		}
+		color = { 110 110 110 }
+		rules = {
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}
+		modifiers = {
+			join_faction_tension = 0.80
+			generate_wargoal_tension = 0.75
+		}
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+
+	paternal_autocrat = {
+		types = {
+			paternal_autocrat_subtype = {}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME_PATERNAL_AUTOCRAT_1"
+		}
+		color = { 45 45 45 }
+		rules = {
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}
+		modifiers = {
+			join_faction_tension = 0.80
+			generate_wargoal_tension = 0.25
+		}
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+
+	radical_nationalist = {
+		types = {
+			radical_nationalist_subtype = {}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME_RADICAL_NATIONALIST_1"
+		}
+		color = { 142 57 0 }
+		rules = {
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}
+		modifiers = {
+			join_faction_tension = 0.80
+			generate_wargoal_tension = 0.25
+		}
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+}

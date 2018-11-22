@@ -1,0 +1,21 @@
+state = {
+	id = 834
+	name = "STATE_834"
+	manpower = 131300
+
+	state_category = rural
+
+	history = {
+		owner = CSA
+		buildings = {
+			infrastructure = 6
+		}
+
+		add_core_of = CSA
+	}
+
+	provinces = {
+		3834 7920 5044 10783 4796 7747 853 8115
+
+	}
+}

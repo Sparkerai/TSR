@@ -1,0 +1,16 @@
+state = {
+	id = 1063
+	name = "STATE_1063"
+	manpower = 6964050
+	state_category = rural
+	history = {
+		owner = PRC
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces = {
+		1084 7189 9969 10003 10119 11944 11980 11996 12093
+	}
+}

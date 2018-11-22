@@ -1,0 +1,21 @@
+state = {
+	id = 832
+	name = "STATE_832"
+	manpower = 50000
+
+	state_category = pastoral
+
+	history = {
+		owner = CSA
+		buildings = {
+			infrastructure = 2
+		}
+
+		add_core_of = CSA
+	}
+
+	provinces = {
+		10740 10894 5038 1954
+
+	}
+}

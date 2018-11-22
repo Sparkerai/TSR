@@ -1,0 +1,19 @@
+state = {
+	id = 990
+	name = "STATE_990"
+	manpower = 68189
+
+	state_category = rural
+
+	history = {
+		owner = JBS
+		add_core_of = JBS
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		4974 5058 8101 10815 10901
+	}
+}

@@ -1,0 +1,20 @@
+state = {
+	id = 881
+	name = "STATE_881"
+
+	history = {
+		owner = CFS
+		add_core_of = CFS
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+		12925
+	}
+	manpower = 755430
+	buildings_max_level_factor = 1
+	state_category = rural
+}

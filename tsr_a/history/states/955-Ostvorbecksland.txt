@@ -1,0 +1,18 @@
+state = {
+	id = 955
+	name = "STATE_955"
+
+	history = {
+		owner = ENG
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		5221 13645
+	}
+	manpower = 190240
+	buildings_max_level_factor = 1
+	state_category = wasteland
+}

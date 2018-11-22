@@ -1,0 +1,46 @@
+ideas = {
+    country = {
+        ENG_french_reparations_idea = {
+            designer = no
+            picture = war_reparations_idea
+            allowed = {
+                original_tag = ENG
+            }
+        }
+        ENG_wteaw_idea = {
+            designer = no
+            picture = wteaw_idea
+            allowed = {
+                original_tag = ENG
+            }
+        }
+        ENG_victors_of_the_great_war_idea = {
+            designer = no
+            picture = victors_idea
+            allowed = {
+                original_tag = ENG
+            }
+        }
+        ENG_imperialism_idea = {
+            designer = no
+            picture = brittish_imperialism_idea
+            allowed = {
+                original_tag = ENG
+            }
+        }
+        ENG_navy_idea = {
+            designer = no
+            picture = navy_bonus_idea
+            allowed = {
+                original_tag = ENG
+            }
+        }
+        ENG_money_idea = {
+            designer = no
+            picture = pound_idea
+            allowed = {
+                original_tag = ENG
+            }
+        }
+    }
+}

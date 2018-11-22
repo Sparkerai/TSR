@@ -1,0 +1,18 @@
+state = {
+	id = 1078
+	name = "STATE_1078"
+
+	history = {
+		owner = ENG
+		buildings = {
+			infrastructure = 2
+
+		}
+	}
+
+	provinces = {
+		12716
+	}
+	manpower = 90471
+	state_category = pastoral
+}

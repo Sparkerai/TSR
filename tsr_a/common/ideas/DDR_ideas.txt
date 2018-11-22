@@ -1,0 +1,25 @@
+ideas = {
+    country = {
+        DDR_confederation_idea = {
+            designer = no
+            picture = ME_idea
+            allowed = {
+                originial_tag = DDR
+            }
+        }
+        DDR_army_with_a_state_idea = {
+            designer = no
+            picture = big_entente_idea
+            allowed = {
+                originial_tag = DDR
+            }
+        }
+        DDR_victors_of_the_great_war_idea = {
+            designer = no
+            picture = victors_idea
+            allowed = {
+                originial_tag = DDR
+            }
+        }
+    }
+}

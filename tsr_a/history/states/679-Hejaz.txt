@@ -1,0 +1,31 @@
+state = {
+	id = 679
+	name = "STATE_679"
+
+	history = {
+		owner = HEJ
+		victory_points = {
+			12883 1
+		}
+		victory_points = {
+			5037 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			12883 = {
+				naval_base = 2
+
+			}
+		}
+		add_core_of = HEJ
+
+	}
+
+	provinces = {
+		4981 5037 12883
+	}
+	manpower = 754141
+	buildings_max_level_factor = 1
+	state_category = town
+}

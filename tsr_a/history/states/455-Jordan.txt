@@ -1,0 +1,23 @@
+state = {		#Ma'an
+	id = 455
+	name = "STATE_455"
+
+	history = {
+		owner = ISR
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			7151 1
+		}
+		add_core_of = ISR
+	}
+
+	provinces = {
+		1 1015 4017 4115 7176 10089 11970 11976 4603 4562 4591 4574 1544 4440
+	}
+	manpower = 97820
+	buildings_max_level_factor = 1
+	state_category = rural
+}
